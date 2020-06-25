@@ -1,0 +1,1 @@
+# djanog-core-skeleton
